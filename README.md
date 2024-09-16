@@ -1,11 +1,11 @@
 *HOMEWORKS-PROJECTS*
 
 
-MOS Chips
+-MOS Chips
 
-Nl INSTRUMENTS Circuits
+-Nl INSTRUMENTS Circuits
 
-Autocad Electrical Designs
+-Autocad Electrical Designs
 
-DIALUX Project
+-DIALUX Project
 
